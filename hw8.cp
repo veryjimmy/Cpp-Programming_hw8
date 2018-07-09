@@ -82,18 +82,6 @@ int main()
 		}
 	}
 
-	/*
-	outFile << grade[0].name << " " << grade[0].calculus << endl; //struct內資料存進記事本
-	outFile << grade[1].name << " " << grade[1].calculus << endl;
-	cin >> grade[2].name >> grade[2].calculus; //存進struct
-	outFile << grade[2].name << " " << grade[2].calculus << endl;
-	outFile.close();
-
-	cout << grade[0].name << " " << grade[0].calculus << endl;
-	cout << grade[1].name << " " << grade[1].calculus << endl;
-	cout << grade[2].name << " " << grade[2].calculus << endl;
-	*/
-
 	system("pause");
 	return 0;
 }
